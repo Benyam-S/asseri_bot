@@ -1,0 +1,4 @@
+CREATE TABLE bot_clients (
+    user_id  VARCHAR PRIMARY KEY UNIQUE NOT NULL,
+    telegram_id VARCHAR UNIQUE NOT NULL
+);

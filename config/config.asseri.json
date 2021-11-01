@@ -1,0 +1,6 @@
+{
+    "api_access_point" : "https://api.telegram.org/bot",
+    "bot_api_token" : "xxxxxxxxxx:XXXXXXXXX-XXXXXXXXXXXXXXXXXXXX",
+    "bot_url": "https://t.me/asseri_bot",
+    "channel_name" : "@aserichannel"
+}
